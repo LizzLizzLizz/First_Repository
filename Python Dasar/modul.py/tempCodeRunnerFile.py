@@ -1,0 +1,1 @@
+mencari_luas_persegi_panjang(panjang, lebar)
