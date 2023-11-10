@@ -1,0 +1,5 @@
+no pasien       : 3337230001
+
+nama            : budi
+tanggal lahir   : 030904
+alamat          : cilegon
